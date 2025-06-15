@@ -1,0 +1,31 @@
+{
+  "vertcoin_rpc": {
+    "host": "127.0.0.1",
+    "port": 5888,
+    "username": "user",
+    "password": "Askcomputer001"
+  },
+  "p2pool": {
+    "network": "mainnet",
+    "donation_percentage": 0.5,
+    "fee_percentage": 0.0,
+    "block_max_size": 1000000,
+    "min_difficulty": 1.0
+  },
+  "network": {
+    "p2p_port": 9346,
+    "max_peers": 10,
+    "target_peers": 5
+  },
+  "web": {
+    "port": 5000,
+    "host": "0.0.0.0"
+  },
+  "mining": {
+    "payout_address": "",
+    "worker_name": "default"
+  },
+  "database": {
+    "path": "p2pool.db"
+  }
+}
