@@ -1,0 +1,2 @@
+# VertcoinLocalPool
+VertcoinLocalPool
